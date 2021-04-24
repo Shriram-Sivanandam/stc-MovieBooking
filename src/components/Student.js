@@ -113,6 +113,12 @@ function Student() {
     if (count === 0) {
       setError("");
       setMessage("Your form has successfully been submitted");
+      console.log("Name: " + name);
+      console.log("Reg No.: " + reg);
+      console.log("Date of birth: " + dob);
+      console.log("Name of program: " + program);
+      console.log("Email Id: " + email);
+      console.log("Phone number: " + phone);
       setName("");
       setReg("");
       setDob("");
