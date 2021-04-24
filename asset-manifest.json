@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stc-studentValidation/static/css/main.ed124da5.chunk.css",
+    "main.js": "/stc-studentValidation/static/js/main.09fcfd37.chunk.js",
+    "main.js.map": "/stc-studentValidation/static/js/main.09fcfd37.chunk.js.map",
+    "runtime-main.js": "/stc-studentValidation/static/js/runtime-main.7d036204.js",
+    "runtime-main.js.map": "/stc-studentValidation/static/js/runtime-main.7d036204.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/stc-studentValidation/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1e931c27.chunk.js": "/stc-studentValidation/static/js/2.1e931c27.chunk.js",
+    "static/js/2.1e931c27.chunk.js.map": "/stc-studentValidation/static/js/2.1e931c27.chunk.js.map",
+    "static/js/3.16c1acf5.chunk.js": "/stc-studentValidation/static/js/3.16c1acf5.chunk.js",
+    "static/js/3.16c1acf5.chunk.js.map": "/stc-studentValidation/static/js/3.16c1acf5.chunk.js.map",
+    "index.html": "/stc-studentValidation/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/stc-studentValidation/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ed124da5.chunk.css.map": "/stc-studentValidation/static/css/main.ed124da5.chunk.css.map",
+    "static/js/2.1e931c27.chunk.js.LICENSE.txt": "/stc-studentValidation/static/js/2.1e931c27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d036204.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1e931c27.chunk.js",
+    "static/css/main.ed124da5.chunk.css",
+    "static/js/main.09fcfd37.chunk.js"
+  ]
+}
