@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Container, Form, Alert, Button } from "react-bootstrap";
-import "./Form.css";
 
 function Student() {
   const [name, setName] = useState("");
